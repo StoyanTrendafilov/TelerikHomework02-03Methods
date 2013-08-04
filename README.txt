@@ -1,0 +1,1 @@
+This is my third homework for the second part of the course in Telerik.
